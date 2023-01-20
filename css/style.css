@@ -75,7 +75,7 @@ hr{
 .pro{
   width:18%;
   margin-bottom: 40px;
-  height: 250px;
+  height: 1562.5%;
   border-radius: 100%;
 }
 .uprpara{
@@ -93,7 +93,7 @@ hr{
 .code-img{
   border-radius: 100%;
   width:25%;
-  height: 200px;
+  height: 1250%;
   background-color: black;
   float: left;
   margin-right: 30px;
@@ -104,7 +104,7 @@ hr{
 .rap-img{
   border-radius: 100%;
   width:25%;
-  height: 200px;
+  height: 1250%;
   background-color: black;
   float: right;
   margin-right: 30px;
